@@ -1,2 +1,1 @@
-1. 移除与官方功能重叠的功能
-2. 自动适配系统亮暗色
+1. fix: Firefox 下无法获取 snapshotId(#42, @tianfangyetan1)
